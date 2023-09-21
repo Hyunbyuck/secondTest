@@ -7,5 +7,6 @@ public class Test1 {
         System.out.println("명령을");
         System.out.println("하달한다");
         System.out.println("얼간이");
+        System.out.println("팀원이 작성");
     }
 }
